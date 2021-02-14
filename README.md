@@ -27,7 +27,14 @@ BMP 파일에서 피부 영역을 검출한 후, 피부 영역에 외접하는 �
 ## [2019-2]: python, opencv를 사용하여 컴퓨터 비전
 
 ### 차선검출
-[차선검출 코드]()
+[차선검출 코드](https://github.com/dnwjddl/-2019-Computer_vision/tree/master/%EC%B0%A8%EC%84%A0%EA%B2%80%EC%B6%9C)
+
+---
+
+### LBP
+[LBP 코드](https://github.com/dnwjddl/-2019-Computer_vision/blob/master/lbp.ipynb)
+
+---
 
 ### 파노로마 영상
-[파노로마 코드]()
+[파노로마 코드](https://github.com/dnwjddl/-2019-Computer_vision/blob/master/panorama%20stitching.ipynb)
