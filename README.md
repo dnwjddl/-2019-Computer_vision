@@ -7,4 +7,9 @@ BMP 파일에서 피부 영역을 검출한 후, 피부 영역에 외접하는 �
 
 [참고문헌: HSI, RGB, YCbCr등 다양한 컬러모델에서의 피부색 range](https://arxiv.org/ftp/arxiv/papers/1708/1708.02694.pdf) <br>
 
-[피부 검출 코드](https://github.com/dnwjddl/-2019-Computer_vision/blob/master/face.cpp)
+[피부 검출 코드]()
+
+[참고문헌: HSI, RGB, YCbCr등 다양한 컬러모델에서의 피부색 range](https://arxiv.org/ftp/arxiv/papers/1708/1708.02694.pdf) <br>
+
+---
+
