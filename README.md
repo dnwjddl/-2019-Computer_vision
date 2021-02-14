@@ -13,7 +13,6 @@ Sobel-X 마스크 컨볼루션 결과와 Sobel-Y 마스크 컨볼루션 결과�
 [동공 중심 코드](https://github.com/dnwjddl/-2019-Computer_vision/tree/master/%EB%8F%99%EA%B3%B5%EC%A4%91%EC%8B%AC)<br>
 
 ---
-
 ### 피부 영역 검출
 BMP 파일에서 피부 영역을 검출한 후, 피부 영역에 외접하는 바운딩 박스를 빨간색으로 표시하는 프로그램 작성
 
