@@ -13,6 +13,6 @@ BMP 파일에서 피부 영역을 검출한 후, 피부 영역에 외접하는 �
 ---
 
 ### 동공 중심 검출
-동공 중심을 지나는 cross 표시 그리기
-[동공 중심]()
+동공 중심을 지나는 cross 표시 그리기 <br>
+[동공 중심](https://github.com/dnwjddl/-2019-Computer_vision/tree/master/%EB%8F%99%EA%B3%B5%EC%A4%91%EC%8B%AC)
 
